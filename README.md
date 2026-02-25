@@ -1,4 +1,4 @@
-# hello-world
+# Hello-World
 # First repository!
 ## Project Title
 Python Learning and Application to Accounting
