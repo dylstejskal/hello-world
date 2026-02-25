@@ -11,4 +11,4 @@ Python Learning and Application to Accounting
 ## How to Run Program
 - N/A
 ## Additional Information
-This project is currently a work in progress.
+<ins>This project is currently a work in progress. </ins>
